@@ -9,11 +9,10 @@ link for the course: https://www.udemy.com/learn-python-and-ethical-hacking-from
 * ARP Spoofing
 * Packet Sniffing
 * DNS Spoofing
-* JavaScript Injector
+* JavaScript Injector (soon)
 * Bypass HTTPS
 * ARPSpoof Detector
-* Malware - *Keylogger* - *Backdoor*
-* Packaging - *Pyinstaller*
+* Malwares (soon)
 * Web Crawler
-* BruteForce - *LoginForm*
-* Vulnerability Scanner
+* BruteForce - *LoginForm* (soon)
+* Vulnerability Scanner (soon)
