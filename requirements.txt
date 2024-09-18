@@ -1,0 +1,7 @@
+BeautifulSoup
+netfilterqueue
+pynput
+Requests
+scapy
+tabulate
+customtkinter
